@@ -1,0 +1,8 @@
+# source/working files that don't belong in the deployed site
+website_agent_prompt.md
+Main pic.jpg
+assets/Sathish Palanivelu Rajmohan Resume.pdf
+
+# os cruft
+.DS_Store
+Thumbs.db
