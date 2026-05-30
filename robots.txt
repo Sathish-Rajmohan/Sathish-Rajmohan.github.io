@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sathish-rajmohan.github.io/sitemap.xml
